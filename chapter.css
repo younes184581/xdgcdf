@@ -1,0 +1,10 @@
+.chapter-content {
+    text-align: center; /* Centers the content within the chapter-content div */
+}
+
+.chapter-content img {
+    max-width: 100%; /* Makes images responsive */
+    height: auto; /* Maintains aspect ratio */
+    margin: 0 auto; /* Centers the image horizontally */
+    display: block; /* Ensures the image is treated as a block element */
+}
